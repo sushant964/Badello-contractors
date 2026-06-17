@@ -1,0 +1,6 @@
+{
+  "name": "Badello Contractors Ltd",
+  "description": "Premium contracting and flooring website for Badello Contractors Ltd, specializing in custom flooring, concrete repair, and resinous flooring systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
